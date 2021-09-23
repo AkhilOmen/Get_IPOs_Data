@@ -5,4 +5,4 @@ It will Store Details about,
 -> Ongoing IPOs
 -> Upcoming IPOs
 
-In a Floder in Excel Formate.
+In a Folder in Excel Formates.
